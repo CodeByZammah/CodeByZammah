@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @CodeByZammah
+- 👀 I’m interested in ...Coding 
+- 🌱 I’m currently learning ...C Language
+- 💞️ I’m looking to collaborate on ... front-end web development projects,
+- AI/ML innovations, open-source initiatives,
+- and creative graphic design integrations
+- 📫 How to reach me ...emmanuelzammah@gmail.com
+- 😄 Pronouns: ...Mr
+- ⚡ Fun fact: ... Studied HTML & CSS for a year +
